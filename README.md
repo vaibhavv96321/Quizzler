@@ -1,6 +1,7 @@
 # quiz_app
 
-A new Flutter project.
+
+This is a Quiz app where you can find different quizes In this app you will find 2 optins to chose from either true or false. So all the best with checking your knowledge.....
 
 ## Getting Started
 
